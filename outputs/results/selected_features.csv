@@ -1,0 +1,13 @@
+Classification_Features,Regression_Features
+course_name,course_name
+gender,gender
+region,region
+previous_education,previous_education
+socioeconomic_group,socioeconomic_group
+age_group,age_group
+previous_attempts,previous_attempts
+registered_credits,registered_credits
+disability_status,disability_status
+registration_days,registration_days
+previous_marks,previous_marks
+active_study_days,active_study_days
